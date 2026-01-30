@@ -95,4 +95,4 @@ A React web application to efficiently manage and analyze text. It includes feat
 - Add more text utilities (e.g., find/replace, text reversal)
 - Add export to PDF or file
 - Mobile enhancements
->>>>>>> 284a1ad299537b2ad4ed2661aff59da29d24599a
+
